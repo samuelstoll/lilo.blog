@@ -80,7 +80,7 @@ Es ist gesetzlich verboten, diese Gegenstände für andere als den vorgesehenen 
 
 Darf nicht an Personen unter 18 Jahren abgegeben werden. Pyrotechnische Gegenstände haben einen bestimmten jeweiligen Verwendungszweck. Es ist gesetzlich verboten, diesen Gegenstand für andere als den vorgesehenen Zweck zu verwenden.
 
-![](bild26.jpg)
+![](bild-30.jpg)
 
 Darf nicht an Personen unter 18 Jahren abgegeben werden. Pyrotechnische Gegenstände ausser Feuerwerkskörper und pyrotechnische Gegenstände für die Verwendung auf Bühnen, die nur für die Handhabung oder Verwendung durch Personen mit Fachkenntnissen bestimmt sind. Für den Verkauf ist eine entsprechende Verkaufsbewilligung des Kantons notwendig. Es besteht Buchführungspflicht (auch für den Verwender).
 
