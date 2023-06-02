@@ -1,7 +1,7 @@
 +++
 title = "Ist es der Knall wert?"
 date = "2023-06-02"
-draft = true
+draft = false
 pinned = false
 tags = ["Deutsch", "Reportage"]
 image = "bild5.jpg"
@@ -15,7 +15,6 @@ Der Ursprung des heutigen Feuerwerks liegt in China (unter anderem deshalb wird 
 
 ![Abbildung 1: Sonnenwendfeier - grösstes Feuerwerk der Schweiz   Oensingen 2015, Foto unbekannt (https://sonnwendfeier.ch/impressionen/ )](bild5.jpg)
 
-
 In der Schweiz ist Feuerwerk für jährlich 78 Tonnen CO2 verantwortlich, dies entspricht etwa 0,0002% der jährlichen CO2 Emissionen der Schweiz. Zum Vergleich: das entspricht in etwa der jährlichen CO2 Emission von 50 Kühen. Dies ist relativ vernachlässigbar. Punkto Feinstaub ist Feuerwerk jedoch für weitaus mehr verantwortlich: jährlich werden 320 Tonnen Feinstaub durch Feuerwerk erzeugt, dies hingegen entspricht etwa 2%, der schweizerischen Feinstaubemissionen. Feuerwerk erzeugt viel Lärm, was für viele Tiere und auch einige Menschen sehr problematisch ist. Für viele Tiere ist der Lärm fast unverträglich, einige verstecken sich im Keller, andere rennen wild und panisch umher. Es wurden schon Rehe beobachtet, die vor lauter Panik in einen Baum rannten und sich dabei tödlich verletzten. Jedoch ist es schwierig zu messen und es gibt auch keine verlässlichen Angaben dazu, wie viele Tiere an Silvester und am ersten August tatsächlich als Folge von Feuerwerk ums Leben kommen. Natürlich ist auch der Verkehr und die teils sehr vielen Menschen an diesen beiden Tagen ein Stressfaktor und Unfallrisiko.
 (26.04.2023) in:(https://www.srf.ch/news/schweiz/co2-und-feinstaub-wie-schaedlich-ist-feuerwerk)
 
@@ -26,7 +25,6 @@ Doch für einige Menschen ist Feuerwerk nicht nur eine Tradition, sie lieben das
 Edith S. hält ihre Katze Detlef in den Armen und streichelt sie zärtlich, während sie sich über die jährliche «Katastrophe», die sie und ihre Katzen erleiden müssen, beschwert. Die andere Katze Honeyball liegt im Bürozimmer und schläft friedlich. Sie verstehe keinen Menschen, der nur im Ansatz das Tierwohl hinter das Vergnügen der Knallerei stellt. Sie kann kein Verständnis und Empathie gegenüber diesen Menschen zeigen. Eigentlich lebt sie in einem ruhigen Quartier, aber jedes Jahr am 1. August verwandelt sich dieser Ort in einen akustischen Kriegsschauplatz. 
 
 ![Abbildung 2: Honeyball auf dem Sofa, Foto Christoph Schmocker](bild-12.jpg)
-
 
 «Ich bin ganz klar dagegen, denn an Silvester haben sie dermassen geknallt, dass meine zwei Katzen verstört im Gang auf dem Teppich lagen, wo sie sonst nie liegen würden. Es war ihnen definitiv nicht wohl gewesen, sie sind nicht weggerannt, oder haben sich im Keller versteckt, aber beide auf dem Teppich liegend habe ich noch nie gesehen. Ich hätte sie in dieser Stresssituation auch nicht in den Arm genommen, die kennen mich gut, aber ich bin mir nicht sicher, ob sie mich nicht gekratzt, oder gebissen hätten. Ich hätte ihnen ja den Fluchtweg versperrt.», sagte sie in klagendem Ton. 
 Sie kenne viele Tierbesitzer und deren Tiere, die ebenfalls leiden.
@@ -46,16 +44,15 @@ Ganz anderer Meinung ist Hanspeter Krieg. Er ist seit 5 Jahren stolzer Besitzer 
 
 ![Abbildung 5: «Knallfred» von innen, Foto Christoph Schmocker](bild16.jpg)
 
-
-
 **Chemie des Feuerwerks**
 Die meisten Feuerwerkskörper enthalten für die Detonation Schwarzpulver (Kaliumnitrat, Kohle, Schwefel). Jedoch werden bei grossen Raketen, Batterien, oder vor allem bei Gross-Feuerwerk häufig auch Blitzknallsätze verwendet, sie bestehen jeweils aus einem Oxidationsmittel (gibt Sauerstoff ab) und einem Reduktionsmittel (verbraucht den Sauerstoff). Die meistverwendete Mischung in der Pyrotechnik besteht aus Kaliumperchlorat und Aluminiumpulver. Alternativ kommen auch Magnesium und diverse Nitrate und Chlorate als Oxidationsmittel vor. (27.04.2023) in:(https://www.chemie.de/lexikon/Pyrotechnischer_Satz.html)
 Warum man teilweise Blitzknallsätze anstatt Schwarzpulver einsetzt, obwohl BKS in der Handhabung viel gefährlicher sind, liegt daran, dass Blitzknallsätze bei gleicher Menge einen viel lauteren Knall abgeben als Schwarzpulver. 
 Wie laut ein Knall ist, hängt nicht nur von der Menge des Sprengstoffs ab, sondern von der Detonationsgeschwindigkeit und der Druckanstiegsgeschwindigkeit. Je höher die beiden Parameter sind, desto lauter der Knall und umso stärker die Explosion. Schwarzpulver hat eine Detonationsgeschwindigkeit von 300-600m/s. der Blitzknallsatz dagegen eine von etwa 3000m/s und eine etwa 100-mal stärkere Druckanstiegsgeschwindigkeit.
 
-
 **Feuerwerksunterteilungen**
 Pyrotechnische Artikel werden in der Schweiz und den meisten anderen Ländern je nach Inhaltsstoffen, Mengen und Anwendungszwecken in unterschiedliche Kategorien eingeteilt:
+
+![](bild20.jpg)
 
 Diese Artikel unterliegen keinerlei Beschränkungen und können frei verkauft werden. 
 
@@ -64,8 +61,6 @@ Darf nicht an Personen unter 12 Jahren abgegeben werden. Umfasst Feuerwerkskörp
 Darf nicht an Personen unter 16 Jahren abgegeben werden. umfasst Feuerwerkskörper, die eine geringe Gefahr darstellen, die einen geringen Lärmpegel erzeugen. Für den Verkauf ist eine Verkaufsbewilligung des entsprechenden Kantons notwendig.
 
 Darf nicht an Personen unter 18 Jahren abgegeben werden. Es braucht die Vorlage einer ID (Altersnachweis).  die für die Verwendung in weiten offenen Bereichen im Freien vorgesehen sind und deren Lärmpegel bei bestimmungsgemässer Verwendung die menschliche Gesundheit nicht gefährden. Für den Verkauf ist eine Verkaufsbewilligung des entsprechenden Kantons notwendig.
-
-
 
 Diese Artikel sind für den gewerblichen Bereich geeignet und meistens mit elektrischem Zünder ausgestattet. Darf nicht an Personen unter 18 Jahren abgegeben werden. Es braucht die Vorlage einer ID (Altersnachweis) – Es werden keine weiteren Ausweise oder dergleichen benötigt.
 Es ist gesetzlich verboten, diese Gegenstände für andere als den vorgesehenen Zweck zu verwenden.
@@ -86,7 +81,6 @@ Für diese Artikel benötigen Sie einen FWA-Ausweis und eine Abbrenngenehmigung 
 Für diese Artikel benötigen Sie einen FWB-Ausweis und eine Abbrenngenehmigung oder einen Erwerbschein. Darf nicht an Personen unter 18 Jahren abgegeben werden.
 (27.04.2023) in:(https://www.feuerwerkshop.ch/symbolerklaerung-die-feuerwerkskategorien-in-der-uebersicht:_:50.html)
 Das meiste bei uns verkaufte Feuerwerk betrifft die Kategorien 1 bis 3. Verkäufe der übrigen Kategorien sind Spezialgeschäften vorbehalten.
-
 
 **Wird Feuerwerk bald verboten?**
 Jeweils vor und nach dem 1. August sowie um Silvester herum, wird häufig über ein generelles Feuerwerksverbot diskutiert. Aktuell läuft eine Unterschriften Sammlung für eine Volksinitiative für eine Einschränkung von Feuerwerk. In Zentren vieler Schweizer Grossstädten gilt schon länger ein Feuerwerksverbot. 
