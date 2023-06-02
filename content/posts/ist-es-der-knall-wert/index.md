@@ -9,7 +9,10 @@ description = "\n\n"
 +++
 **Jedes Jahr am Ersten August gibt es in der Schweiz eine beobachtbar ansteigende Zahl an toten Tieren, die in jeder Umgebung, sei es in der Stadt, auf der Strassen, oder im Wald gefunden werden. Daran sind offensichtlich diese Feuerwerke, diese Böller und vor allem diese unverantwortlichen Knall-Fanatiker Schuld, oder?
 Ist es in der heutigen Zeit noch vertretbar, Sprengstoff zur puren Eigenbelustigung zu verwenden – ist es egoistisch, oder ein gerechtfertigtes Bedürfnis?**
-*Von **Christoph Schmocker** und **Samuel Stoll***
+
+\*Von **Christoph Schmocker** und **Samuel Stoll***
+
+
 **Feuerwerksgeschichte**
 Der Ursprung des heutigen Feuerwerks liegt in China (unter anderem deshalb wird auch fast alles Feuerwerk dort produziert). Ein chinesischer Mönch aus der Tang Dynastie (10. Jahrhundert) namens Li Tian erfand das Schwarzpulver. Womit kurz darauf die ersten Feuerwaffen entwickelt wurden (Kanonen, Vorderlader). Pyrotechnik wurde zum Beispiel im 13. Jahrhundert bei der Mongolischen Invasion nach China verwendet, in Form von Brandpfeilen, Flammenwerfern, Leuchtgeschossen, Tretminen aus Bambus, oder auch schon Raketen. Mit der Zeit wurde Feuerwerk nicht mehr nur zum Morden gebraucht, sondern auch zum Feiern. (Chemische Grundlagen der Pyrotechnik)
 
